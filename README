@@ -1,0 +1,6 @@
+Python re-implementation of a program which uses libvirt to copy virtual 
+machines between two servers. Designed to be run at a reasonable interval, 
+it keeps a backup mirror of a virtual machine on another physical server.
+
+Note, this software is extremely incomplete. See the 'twin' project for a
+complete and working solution in bash.
